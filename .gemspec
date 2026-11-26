@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Juan Gamez", "Aeyrton Villalobos","Fernando Carrillo"]
   s.email       = ['juan.gamez@sw.com.mx','dev@sw.com.mx', 'aeyrton.villalobos@sw.com.mx','fernando.carrillo@sw.com.mx']
   s.homepage    = 'https://sw.com.mx/'
-  s.metadata    = { "source_code_uri" => "https://github.com/lunasoft/sw-sdk-ruby"}
+  s.metadata    = { "source_code_uri" => "https://github.com/swsapiendev/sw-sdk-ruby"}
   s.required_ruby_version = '>= 2.1'
   s.files = Dir['lib/**/*'] + Dir['bin/*']
   s.files += Dir['[A-Z]*'] + Dir['test/**/*']
